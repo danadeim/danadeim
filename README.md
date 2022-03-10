@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danadeim
+- 👋 Hi, I’m @danadeim.My student number is- s22407;
 - 👀 I’m interested in IT field
 - 🌱 I’m currently learning Java, C++, DataBase, Java Script 
 - 📫 How to reach me: E-mail- demkivskab@gmail.com; Linkedin- https://www.linkedin.com/in/bohdana-demkivska-838461212/
